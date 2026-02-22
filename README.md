@@ -95,6 +95,7 @@ Object-Oriented Programming
 
 Screenshots
 https://github.com/richu-sharma/login-dashboard-project/blob/main/1.png
+https://github.com/richu-sharma/login-dashboard-project/blob/main/2.png
 
 👩‍💻 Author
 
