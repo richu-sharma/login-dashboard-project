@@ -93,6 +93,9 @@ Git & GitHub project deployment
 
 Object-Oriented Programming
 
+Screenshots
+https://github.com/richu-sharma/login-dashboard-project/blob/main/1.png
+
 👩‍💻 Author
 
 Richa Sharma
